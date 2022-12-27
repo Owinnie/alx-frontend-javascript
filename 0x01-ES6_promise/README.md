@@ -2,3 +2,5 @@
 
 - JavaScript
 - ES6
+- Promises
+- Asyn / await
