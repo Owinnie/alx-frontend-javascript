@@ -6,16 +6,16 @@ interface Student {
 }
 
 const student1: Student = {
-    firstName: 'firdaus',
-    lastName: 'salim',
+    firstName: 'winnie',
+    lastName: 'ouma',
     age: 21,
-    location: 'mombasa',
+    location: 'nakuru',
 };
 const student2: Student = {
-    firstName: 'beta',
-    lastName: 'scribbles',
-    age: 25,
-    location: 'kenya',
+    firstName: 'o',
+    lastName: 'domtilla',
+    age: 20,
+    location: 'nairobi',
 };
 
 const studentsList: Student[] = [student1, student2];
